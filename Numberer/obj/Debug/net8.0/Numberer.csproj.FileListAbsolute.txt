@@ -1,0 +1,14 @@
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\bin\Debug\net8.0\Numberer.exe
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\bin\Debug\net8.0\Numberer.deps.json
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\bin\Debug\net8.0\Numberer.runtimeconfig.json
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\bin\Debug\net8.0\Numberer.dll
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\bin\Debug\net8.0\Numberer.pdb
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.AssemblyInfoInputs.cache
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.AssemblyInfo.cs
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.csproj.CoreCompileInputs.cache
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.dll
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\refint\Numberer.dll
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.pdb
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.genruntimeconfig.cache
+C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\ref\Numberer.dll
